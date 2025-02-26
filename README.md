@@ -1,4 +1,5 @@
-### Hi, I am Behruz Abdukamilov <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWx2dTIwOG90YmJyODk0bHRsczFnMjF5MXdwOGo0Nzh2NGkyN3d3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1IB22SuYeEMMPTguL/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JheTRrMHVjMjhnZnB4dGFlZXl4a284dnE4Z3hmb3o5c3cwaTRhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTjxSbh6KnqSyRa1zk/giphy.gif)" width="30px>
+### Hi, I am Behruz Abdukamilov ![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JheTRrMHVjMjhnZnB4dGFlZXl4a284dnE4Z3hmb3o5c3cwaTRhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTjxSbh6KnqSyRa1zk/giphy.gif)
+
 
 <!--
 **abdukamilovb/abdukamilovb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
